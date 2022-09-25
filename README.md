@@ -5,7 +5,7 @@ I'm a software developer a like create solutions open source based in golang, re
 
 ### Hola 👋 bienvenido a mi repositorio.
 
-Soy desarrollador de software y me gusta crear soluciones de código abierto basadas en golang, react y siempre dispuesto a aprender cosas nuevas.
+Soy desarrollador de software y me gusta crear soluciones de código abierto basadas en golang, react y siempre estoy dispuesto a aprender cosas nuevas.
 
 
 <!--
