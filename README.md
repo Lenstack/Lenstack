@@ -1,4 +1,5 @@
-### Hi there 👋 welcome to my repository, I'm a golang developer.
+### Hi there 👋 welcome to my repository.
+I'm a developer a like create solutions open source based in  golang and react.
 
 <!--
 **Lenstack/Lenstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
