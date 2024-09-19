@@ -1,1 +1,1 @@
-### 👋 Hi there, thanks for watching my profile!:
+### 👋 Hi there, thanks for watching my profile!
